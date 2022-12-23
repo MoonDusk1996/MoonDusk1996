@@ -7,51 +7,54 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonDusk1996&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
-   ##
-
+  
+## My skills:
 <details>
-  <summary>Languagues</summary>
+<summary>Languagues</summary>
  
- > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-</details>
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ </details>
   
-  ##
-  
-  <details>
-  <summary>Frameworks and Libraries</summary>
-  
-> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material.ui-%232E7EEA.svg?style=for-the-badge&logo=mui&logoColor=white)
-</details>
-  
-  ##
-
 <details>
-  <summary>Database</summary>
+<summary>Frameworks, Libraries and Stacks</summary>
   
-> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-blueviolet.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/react%20hook%20form-hotpink.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-black.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-gray.svg?style=for-the-badge&logo=unity&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material.ui-%232E7EEA.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+ </details>
+  
+<details>
+<summary>Database</summary>
+  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-steelblue.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </details>
   
-  ##
+##
  
+## Find me:
 <div align="center"> 
+  
   <a href="https://www.instagram.com/__moondusk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AGfxJKmbKf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:washington.lopesdasilvafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/washington-lopes-638836249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ##
-  
-
