@@ -47,6 +47,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-steelblue.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </details>
   
+<details>
+<summary>Design and illustration</summary>
+  
+![PhotoShop](https://img.shields.io/badge/photoshop-midnightblue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-darkorange.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/krita-slateblue.svg?style=for-the-badge&logo=krita&Color=white)
+</details>
+  
 ##
  
 ## Find me:
