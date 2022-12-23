@@ -24,8 +24,8 @@
 <summary>Frameworks, Libraries and Stacks</summary>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next](https://img.shields.io/badge/next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomnia-blueviolet.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
