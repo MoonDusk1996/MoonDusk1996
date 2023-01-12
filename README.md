@@ -62,7 +62,7 @@
 ## Find me:
 <div align="center"> 
   
-  <a href="https://www.instagram.com/__moondusk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/moondusk1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AGfxJKmbKf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://www.artstation.com/duski"><img src="https://img.shields.io/badge/-Artstation-%23333?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
   <a href = "mailto:washington.lopesdasilvafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
