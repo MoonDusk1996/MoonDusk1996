@@ -1,3 +1,4 @@
+<!---
 <div>
   <h2>Hi, i'm Dusk👋</h2>
   </div>
@@ -6,6 +7,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MoonDusk1996&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonDusk1996&layout=compact&langs_count=7&theme=panda"/>
 </div>
+--->
   
   
 ## My skills:
