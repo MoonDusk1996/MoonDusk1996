@@ -22,7 +22,6 @@
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -40,8 +39,6 @@
 ![Insomnia](https://img.shields.io/badge/insomnia-blueviolet.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Reac Hook Form](https://img.shields.io/badge/react%20hook%20form-hotpink.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-black.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-gray.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material.ui-%232E7EEA.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
