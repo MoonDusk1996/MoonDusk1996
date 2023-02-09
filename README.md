@@ -7,7 +7,7 @@
  
 <div align="center">
   
-  ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png)
+  <!-- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) --> 
 
   <a href="https://github.com/MoonDusk1996">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MoonDusk1996&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
