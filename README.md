@@ -2,7 +2,6 @@
   <h2>Hi, i'm Dusk👋</h2>
 </div>
 
-
 <div align="center">
   
   <!-- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) -->
@@ -16,7 +15,6 @@
       
 ## My skills:
 
-
 Languagues:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,12 +23,10 @@ Languagues:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
-
 Frameworks, Libraries and Stacks:
-  
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-orchid.svg?style=for-the-badge&logo=vite&logoColor=%2361DAFB)
 ![Electron](https://img.shields.io/badge/electron-4682B4?style=for-the-badge&logo=electron&logoColor=white)
@@ -44,8 +40,8 @@ Frameworks, Libraries and Stacks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
- </details>
 
+ </details>
 
 Database:
 
@@ -54,19 +50,17 @@ Database:
 ![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-steelblue.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
-
 Design and illustration:
-  
+
 ![PhotoShop](https://img.shields.io/badge/photoshop-midnightblue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-darkorange.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-slateblue.svg?style=for-the-badge&logo=krita&Color=white)
-</details>
-  
 
- 
+</details>
+
+
 ## Find me:
+
 <div align="center"> 
   
   <a href="https://www.instagram.com/moondusk1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
