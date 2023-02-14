@@ -1,34 +1,34 @@
-
-<div>
+<div align="center">
   <h2>Hi, i'm Dusk👋</h2>
-  </div>
- 
+</div>
 
- 
+
 <div align="center">
   
-  <!-- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) --> 
+  <!-- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) -->
 
   <a href="https://github.com/MoonDusk1996">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MoonDusk1996&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonDusk1996&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
-
-  
+<div align="center">
+      
 ## My skills:
-<details>
-<summary>Languagues</summary>
- 
+
+
+Languagues:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- </details>
-  
-<details>
-<summary>Frameworks, Libraries and Stacks</summary>
+
+
+
+
+Frameworks, Libraries and Stacks:
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,25 +45,26 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  </details>
-  
-<details>
-<summary>Database</summary>
-  
+
+
+Database:
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-steelblue.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-</details>
-  
-<details>
-<summary>Design and illustration</summary>
+
+
+
+
+Design and illustration:
   
 ![PhotoShop](https://img.shields.io/badge/photoshop-midnightblue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-darkorange.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-slateblue.svg?style=for-the-badge&logo=krita&Color=white)
 </details>
   
-##
+
  
 ## Find me:
 <div align="center"> 
@@ -74,4 +75,5 @@
   <a href = "mailto:washington.lopesdasilvafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/washington-lopes-638836249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+
+</div>
