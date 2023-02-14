@@ -27,6 +27,7 @@ Frameworks, Libraries and Stacks:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React native](https://img.shields.io/badge/angular-166CC8.svg?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![Next](https://img.shields.io/badge/next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-orchid.svg?style=for-the-badge&logo=vite&logoColor=%2361DAFB)
 ![Electron](https://img.shields.io/badge/electron-4682B4?style=for-the-badge&logo=electron&logoColor=white)
