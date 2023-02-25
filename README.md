@@ -6,7 +6,7 @@
 
 <p>
   
-Olá, meu nome é Washington, mas pode me chamar de Dusk, se preferir. Tenho 26 anos e resido na região centro-sul de Manaus, no Amazonas. Desde 2015, venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e voluntários em outras equipes.
+Olá, meu nome é Washington. Tenho 26 anos e resido na região centro-sul de Manaus, no Amazonas. Desde 2015, venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e voluntários em outras equipes.
 
 Dedico uma parte do meu tempo à progressão da minha carreira, trabalhando em projetos pessoais, ajudando colegas da comunidade, e sempre estudando alguma stack para me manter atualizado. 
 
