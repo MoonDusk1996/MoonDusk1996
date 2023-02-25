@@ -6,11 +6,9 @@
 
 <p>
   
-Olá, meu nome é Washington. Tenho 26 anos e resido na região centro-sul de Manaus, no Amazonas. Desde 2015, venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e voluntários em outras equipes.
+Olá, meu nome é Washington. Tenho 26 anos e resido na região centro-sul de Manaus, no Amazonas. Desde 2015, venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks populares do ecosistema para auxiliar no desenvolvimento de soluções reais, projetos pessoais e voluntários.
 
-Dedico uma parte do meu tempo à progressão da minha carreira, trabalhando em projetos pessoais, ajudando colegas da comunidade, e sempre estudando alguma stack para me manter atualizado. 
-
-Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, eles contém soluções reais, prejtos pessoais e projetos para portfólio. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
+Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, separei os projetos com mais relevância e se caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
 
 
 
@@ -32,7 +30,7 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, e
 
 <div>
 <sub>
-Minhas melhores habilidades não são representativas de todas as minhas habilidades totais!
+essa sessão não é representativas de todas as minhas habilidades totais!
 </sub>
 </div>
 
@@ -41,6 +39,8 @@ Minhas melhores habilidades não são representativas de todas as minhas habilid
  [![logo java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=kofi&logoColor=white)](#)
  
 </div>
+
+
 
 ### Github status
 
