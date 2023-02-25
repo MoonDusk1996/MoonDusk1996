@@ -1,10 +1,77 @@
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=55A73F&repeat=false&width=435&lines=Bem+vindo+ao+meu+reposit%C3%B3rio)](https://git.io/typing-svg)
+  
+</div>
+
+<p>
+  
+Olá, me chamo Washington, mas pode me chamar apenas de Dusk se preferir, eu tenho 26 anos e moro na zona centro sul de Manaus - AM. Estudo programação desde 2015, comecei a aprender o básico de programação por conta própria enquanto aprendia a desenvolver jogos indie em C#, e com o passar do tempo fui adquirindo experiencia no desenvolvimento web, mobile e desktop. No momento minha stack é Javascript, uso diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e de outras equipes as quais ajudo com trabalho voluntário.
+Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a projetos pessoais, busco ajudar colegas da comunidade e estudar novas coisas para me manter atualizado.
+Atualmente estou estudando Java procurando novas oportunidades na minha stack atual JS.
+Agradeço se voçê tiver um tempo para dar uma olhada nos meus repositórios fixados e caso tenha alguma dúvida ou feedback, fique a vontade para entrar em contato comigo.
+
+</p>
+
+---------------------------------------------
+
+<div align="left">
+      
+### Minhas melhores habilidades
+  
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/node-373F51?style=plastic&logo=node.js&logoColor=6DA55F" />
+<img src="https://img.shields.io/badge/electron-373F51.svg?style=plastic&logo=electron&logoColor=%4682B4" />
+<img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/jest-green?style=plastic&logo=jest&logoColor=white" />
+
+<div>
+<sub>
+Minhas melhores habilidades não são representativas de todas as minhas habilidades totais!
+</sub>
+</div>
+
+### O que estou estudando no momento
+  
+ [![logo java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=kofi&logoColor=white)](#)
+ 
+</div>
+
+### Github status
+
+<a href="https://github.com/MoonDusk1996">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=MoonDusk1996&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonDusk1996&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+
+ 
+---------------------------------------------
+  
+<div align="left"> 
+  
+### Contato
+
+  <a href="https://www.linkedin.com/in/washington-lopes-638836249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:washington.lopesdasilvafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/moondusk1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/AGfxJKmbKf" target="_blank"><img src="https://img.shields.io/badge/Server-7289DA?style=platic&logo=discord&logoColor=white" target="_blank"></a> 
+  
+
+  
+</div>
+
+</div>
+
+<!----------- Old Version --------------
+
 <div align="center">
   <h2>Hi, i'm Dusk👋</h2>
 </div>
 
 <div align="center">
   
-  <!-- ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) -->
+ ![https://discord.com/users/906415095473655810](https://discord.c99.nl/widget/theme-4/198577728302219264.png) 
 
   <a href="https://github.com/MoonDusk1996">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MoonDusk1996&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
@@ -51,14 +118,14 @@ Database:
 ![MySQL](https://img.shields.io/badge/mysql-373F51.svg?style=for-the-badge&logo=mysql&logoColor=%230769AD)
 ![SQLite](https://img.shields.io/badge/sqlite-373F51.svg?style=for-the-badge&logo=sqlite&logoColor=steelblue)
 
-  <!--
+ 
 Design and illustration:
 
 ![PhotoShop](https://img.shields.io/badge/photoshop-midnightblue.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-darkorange.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-slateblue.svg?style=for-the-badge&logo=krita&Color=white)
 
--->
+
 
 
 ## Find me:
@@ -73,3 +140,4 @@ Design and illustration:
 </div>
 
 </div>
+ -->
