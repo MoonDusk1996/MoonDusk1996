@@ -6,10 +6,13 @@
 
 <p>
   
-Olá, me chamo Washington, mas pode me chamar apenas de Dusk se preferir, eu tenho 26 anos e moro na zona centro sul de Manaus - AM. Estudo programação desde 2015, comecei a aprender o básico de programação por conta própria enquanto aprendia a desenvolver jogos indie em C#, e com o passar do tempo fui adquirindo experiencia no desenvolvimento web, mobile e desktop. No momento minha stack é Javascript, uso diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e de outras equipes as quais ajudo com trabalho voluntário.
-Parte do meu tempo que utilizo para progredir na minha carreira eu me dirijo a projetos pessoais, busco ajudar colegas da comunidade e estudar novas coisas para me manter atualizado.
-Atualmente estou estudando Java procurando novas oportunidades na minha stack atual JS.
-Agradeço se voçê tiver um tempo para dar uma olhada nos meus repositórios fixados e caso tenha alguma dúvida ou feedback, fique a vontade para entrar em contato comigo.
+Olá, meu nome é Washington, mas pode me chamar de Dusk, se preferir. Tenho 26 anos e resido na região centro-sul de Manaus, no Amazonas. Desde 2015, venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks atuais para auxiliar no desenvolvimento de projetos pessoais e voluntários em outras equipes.
+
+Dedico uma parte do meu tempo à progressão da minha carreira, trabalhando em projetos pessoais, ajudando colegas da comunidade, e sempre estudando alguma stack para me manter atualizado. 
+
+Agradeço se você puder dar uma olhada nos meus repositórios fixados, eles contém soluções reais, prejtos pessoais e projetos para portfólio. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
+
+
 
 </p>
 
