@@ -10,7 +10,7 @@ Olá, meu nome é Washington. Tenho 26 anos e resido na região centro-sul de Ma
 
 Dedico uma parte do meu tempo à progressão da minha carreira, trabalhando em projetos pessoais, ajudando colegas da comunidade, e sempre estudando alguma stack para me manter atualizado. 
 
-Agradeço se você puder dar uma olhada nos meus repositórios fixados, eles contém soluções reais, prejtos pessoais e projetos para portfólio. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
+Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, eles contém soluções reais, prejtos pessoais e projetos para portfólio. Caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
 
 
 
