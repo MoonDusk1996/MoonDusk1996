@@ -28,11 +28,6 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
 <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/jest-green?style=plastic&logo=jest&logoColor=white" />
 
-<div>
-<sub>
-essa sessão não é representativas de todas as minhas habilidades totais!
-</sub>
-</div>
 
 ### O que estou estudando no momento
   
