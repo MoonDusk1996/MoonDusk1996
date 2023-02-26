@@ -53,7 +53,7 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
   <a href="https://www.linkedin.com/in/washington-lopes-638836249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:washington.lopesdasilvafilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-gray?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/moondusk1996/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/AGfxJKmbKf" target="_blank"><img src="https://img.shields.io/badge/Server-7289DA?style=platic&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/AGfxJKmbKf" target="_blank"><img src="https://img.shields.io/badge/Server-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank"></a> 
   
 
   
