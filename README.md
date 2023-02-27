@@ -4,7 +4,6 @@
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
 
 <p>
   
@@ -60,8 +59,9 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
 
   
 </div>
+  
+![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
 
-</div>
 
 <!----------- Old Version --------------
 
