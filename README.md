@@ -1,8 +1,11 @@
 <div align="left">
   
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=55A73F&repeat=false&width=435&lines=Bem+vindo+ao+meu+reposit%C3%B3rio)](https://git.io/typing-svg)
   
 </div>
+
+![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
 
 
 <p>
@@ -59,8 +62,7 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
 
   
 </div>
-  
-![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
+
 
 
 <!----------- Old Version --------------
