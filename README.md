@@ -4,6 +4,8 @@
   
 </div>
 
+![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
+
 <p>
   
 Olá, meu nome é Washington, tenho 26 anos e resido na região centro-sul de Manaus no Amazonas. Desde 2015 venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo, adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript, utilizando diversos frameworks populares do ecosistema para auxiliar no desenvolvimento de soluções reais, projetos pessoais e voluntários.
