@@ -5,7 +5,7 @@
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731)
+<!-- ![](https://komarev.com/ghpvc/?username=moondusk1996&style=plastic&color=55A731) -->
 
 
 <p>
@@ -35,7 +35,8 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
 
 ### O que estou estudando no momento
   
- [![logo java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=kofi&logoColor=white)](#)
+  <img src="https://img.shields.io/badge/Tauri-%23323330.svg?style=plastic&logo=tauri&logoColor=%23F7DF1E" />
+
  
 </div>
 
