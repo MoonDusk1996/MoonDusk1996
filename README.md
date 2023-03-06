@@ -10,7 +10,7 @@
 
 <p>
   
-Olá, meu nome é Washington, tenho 26 anos e resido na região centro-sul de Manaus no Amazonas. Desde 2015 venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript por ser uma linguagém que pode resolver grande parte dos problemas de mercado atuais utilizando diversos frameworks populares do ecosistema para auxiliar no desenvolvimento de soluções reais, projetos pessoais e voluntários.
+Olá, meu nome é Washington, tenho 26 anos e resido na região centro-sul de Manaus no Amazonas. Desde 2015 venho estudando programação, tendo começado a aprender os fundamentos por conta própria em C#. Com o passar do tempo adquiri experiência em desenvolvimento web, mobile e desktop. Atualmente, minha especialização é em JavaScript por ser uma linguagém que me permite resolver grande parte dos problemas de mercado atuais utilizando diversos frameworks populares do ecosistema para auxiliar no desenvolvimento de soluções reais, projetos pessoais e voluntários.
 
 Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, separei os projetos com mais relevância e se caso tenha alguma dúvida ou feedback, fique à vontade para entrar em contato comigo.
 
