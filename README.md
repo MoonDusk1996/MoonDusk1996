@@ -29,6 +29,7 @@ Agradeço se você puder dar uma olhada nos meus repositórios fixados abaixo, s
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node-373F51?style=plastic&logo=node.js&logoColor=6DA55F" />
 <img src="https://img.shields.io/badge/electron-373F51.svg?style=plastic&logo=electron&logoColor=%4682B4" />
+  <img src="https://img.shields.io/badge/Azure-blue.svg?style=plastic&logo=microsoftazure&logoColor=white" />
 
 
 ### O que estou estudando no momento
